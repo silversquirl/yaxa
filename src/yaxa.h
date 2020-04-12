@@ -23,8 +23,6 @@ enum prefix {
 
   PREFIX_OPER_OVERRIDE = 1 << 9,
   PREFIX_ADDR_OVERRIDE = 1 << 10,
-
-  PREFIX_REX = 1 << 11,
 };
 
 enum reg {
